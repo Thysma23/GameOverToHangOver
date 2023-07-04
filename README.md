@@ -21,3 +21,6 @@ Mods de base/ d'opti:
 - Polymorph
 - Simple Discord Rich Presence
 - Default Options
+
+Mods Aventure:
+- Draconic Evolution
