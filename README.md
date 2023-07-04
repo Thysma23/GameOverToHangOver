@@ -10,3 +10,14 @@ Mods de base/ d'opti:
 - FTB => Backup, quests, chunk
 - Health Overlay
 - FastWorkBench, FastFurnace => Opti craft et furnace
+- Fast Leaf Decay
+- Shutup Experimental Settings!
+- Overloaded Armor Bar
+- Mod Name Tooltip
+- Toast Control
+- The One Probe
+- TOP Addons
+- RandomPatches
+- Polymorph
+- Simple Discord Rich Presence
+- Default Options
